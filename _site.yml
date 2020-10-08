@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "___'s Blog"
+title: "Luca Dorio's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,9 +10,9 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
-collections:
+      href: https://github.com/lucadorio/lucadorio_blog.git
+base_url: lucadorio.github.io/lucadorio_blog/
+collections: 
     posts:
       share: [twitter, linkedin, facebook]
       #disqus: 
