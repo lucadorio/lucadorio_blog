@@ -1,5 +1,5 @@
 ---
-title: "Article 1: Wildlife in 'catastrophic decline' due to human destruction, scientist warn"
+title: "Article 1: Wildlife in 'catastrophic decline' due to human destruction, scientist warn."
 description: |
 
 author:
@@ -12,6 +12,7 @@ output:
 ---
 
 ![](images/image-20170315-5354-1talagg.jpg)
+
 # Source of the article with publication and word count 
 
 Source of the article: https://www.bbc.com/news/science-environment-54091048
@@ -41,10 +42,10 @@ Word count: 719
 - Researchers? 
     + The Zoological Society of London (ZSL)
     + WWF
-    +The International Union for Conservation of Nature (IUCN)
+    + The International Union for Conservation of Nature (IUCN)
 
 - Published in? when (if mentioned)?
-    + BBC News, 10 September 2020 
+    + 10 September 2020 
 
 - General topic
     + The wildlife population is in freefall, one million species are threatened by extinction. 
