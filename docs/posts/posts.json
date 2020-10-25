@@ -17,16 +17,31 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-25",
     "categories": [
       "English for Science",
       "Bacteria",
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:26:48+02:00",
+    "last_modified": "2020-10-25T14:42:18+01:00",
     "preview_width": 3333,
     "preview_height": 2667
+  },
+  {
+    "path": "posts/2020-10-25-Article 1/",
+    "title": "Article 1: Wildlife in 'catastrophic decline' due to human destruction, scientist warn",
+    "description": {},
+    "author": [
+      {
+        "name": "Luca Dorio",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": "posts/2020-10-25-Article 1/images/image-20170315-5354-1talagg.jpg",
+    "last_modified": "2020-10-25T14:48:52+01:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",
