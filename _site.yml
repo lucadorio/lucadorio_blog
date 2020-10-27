@@ -15,7 +15,7 @@ base_url: lucadorio.github.io/lucadorio_blog/
 collections: 
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: lucadorio-blog
 output:
   distill::distill_article:
     css: style.css
