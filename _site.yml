@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/lucadorio/lucadorio_blog.git
-base_url: lucadorio.github.io/lucadorio_blog/
+base_url: https://lucadorio.github.io/lucadorio_blog/
 collections: 
     posts:
       share: [twitter, linkedin, facebook]

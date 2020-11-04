@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/</loc>
     <lastmod>2020-10-08T11:38:24+02:00</lastmod>
   </url>
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-25T14:42:18+01:00</lastmod>
   </url>
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/posts/2020-10-25-Article 1/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/posts/2020-10-25-Article 1/</loc>
     <lastmod>2020-10-25T17:23:07+01:00</lastmod>
   </url>
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/posts/2019-10-25-biggest-rodent/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/posts/2019-10-25-biggest-rodent/</loc>
     <lastmod>2020-10-08T11:26:48+02:00</lastmod>
   </url>
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/posts/about/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/posts/about/</loc>
     <lastmod>2020-10-08T11:26:48+02:00</lastmod>
   </url>
   <url>
-    <loc>lucadorio.github.io/lucadorio_blog/posts/meal/</loc>
+    <loc>https://lucadorio.github.io/lucadorio_blog/posts/meal/</loc>
     <lastmod>2020-10-08T11:26:48+02:00</lastmod>
   </url>
 </urlset>
