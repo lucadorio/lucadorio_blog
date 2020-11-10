@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-11-10-graphicdescription/",
     "title": "graphic_description",
-    "description": "A short description of the post.",
+    "description": ".",
     "author": [
       {
         "name": "Luca Dorio",
@@ -12,7 +12,7 @@
     "date": "2020-11-10",
     "categories": [],
     "preview": "posts/2020-11-10-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2020-11-10T10:05:50+01:00",
+    "last_modified": "2020-11-10T17:27:49+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },

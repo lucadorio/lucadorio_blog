@@ -1,7 +1,7 @@
 ---
 title: "graphic_description"
 description: |
-  A short description of the post.
+  .
 author: 
   - name: Luca Dorio
 date: 11-10-2020
@@ -14,22 +14,24 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Introduction
+
+In this graph we are going to analyse datasets from biometry of urchin. In this datasets we have some data about the biometry (height, weight, diameter,...) of urchin from 2 origin (Fishery and Farm).
+
+## Graph 
+
 ```{r}
 SciViews::R
 
-data <- read("zooplankton", package = "data.io")
+data <- read("urchin_bio", package = "data.io")
 
-(copepoda <- filter(zooplankton,
-  class %in% c("Calanoid", "Cyclopoid",  "Harpacticoid",  "Poecilostomatoid")))
-
-give_n <- function(x)
-  c(y = max(x) * 1.1, label = length(x))
-
-chart(copepoda, size ~ class) +
-  geom_boxplot() +
-  stat_summary(fun.data = give_n, geom = "text", hjust = 0.5) 
+chart(urchin_bio, gonads ~ origin %fill=% sex) +
+  geom_boxplot(na.rm = TRUE) 
 ```
 
+## Description
+
+First of all, we can see is the gonad's number in fishery is smaller than the gonad's farm. Secondly, the repartion of gonad from the same origin is also different, male urchin have more gonads than female in fishery and in farm it is the opposite. 
 
 
 
