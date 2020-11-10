@@ -1,0 +1,38 @@
+---
+title: "graphic_description"
+description: |
+  A short description of the post.
+author: 
+  - name: Luca Dorio
+date: 11-10-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+SciViews::R
+
+data <- read("zooplankton", package = "data.io")
+
+(copepoda <- filter(zooplankton,
+  class %in% c("Calanoid", "Cyclopoid",  "Harpacticoid",  "Poecilostomatoid")))
+
+give_n <- function(x)
+  c(y = max(x) * 1.1, label = length(x))
+
+chart(copepoda, size ~ class) +
+  geom_boxplot() +
+  stat_summary(fun.data = give_n, geom = "text", hjust = 0.5) 
+```
+
+
+
+
+
+
+

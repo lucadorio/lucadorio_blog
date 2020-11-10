@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-10-graphicdescription/",
+    "title": "graphic_description",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Luca Dorio",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [],
+    "preview": "posts/2020-11-10-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-11-10T10:05:50+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
