@@ -1,0 +1,58 @@
+---
+title: "Article 3: How forest loss has changed biodiversity across the globe over the last 150 years."
+description: |
+  
+author:
+  - name: Luca Dorio
+    url: {}
+date: 11-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Source of the article with publication and word count 
+
+Source of the article: : https://theconversation.com/how-forest-loss-has-changed-biodiversity-across-the-globe-over-the-last-150-years-140968
+
+Date: 18 June 2020
+
+Word count: 801 
+
+# Vocabulary 
+
+|     Word from the text    |     Synonym/explanation in English                                     |     French translate    |
+|---------------------------|------------------------------------------------------------------------|-------------------------|
+|     Root                  |     Source, origin of something.                                       |     Racine/Origine      |
+|     Swathe                |     A large strip or area of something.                                |     Bande               |
+|     Pace                  |     Move or develop (something) at a particular rate or speed.         |     Rythme/Allure       |
+|     Albeit                |     Synonym of through                                                 |     Bien que            |
+|     Pristine              |     Something in its original form, condition.                         |     Primitif            |
+|     Harnessing            |     Control and make use of resources, to produce something.           |     Exploiter           |
+|     Increases             |     Growing. Become greater in size, amount, or degree.                |     Augmente            |
+|     Shrink                |     Become smaller in size or amount.                                  |     Rétréci             |
+|     Among                 |     Situated more or less centrally in a situation or relation.        |     Entre               |
+|     Lifespan              |     The length of time for which a person or animal lives.             |     Durée de vie        |
+|     Struggle              |     Make forceful efforts to get free of restraint or constriction.    |     Lutter              |
+|     Delay                 |     make (something or effect) late or slow.                           |     Différé             |
+
+
+# Analysis of the study
+
+- Researchers? 
+    + Gergana N. Daskalova, Isla H. Myers-Smith, Anne D. Bjorkman, A. Blowes, Sarah R. Supp, Anne E. Magurran, Maria Dornelas. 
+
+- Published in? when (if mentioned)?
+    + 19 June 2020 
+
+- General topic
+    + If the forest loss affects the biodiversity and to what extent.
+    
+- Procedure/what was examined
+    + The scientists matched estimates of forest loss throughout history with records of the numbers and types of plants and animals monitored each year by scientists around the world (five million records across 150 years at over 6,000 locations). They also analyzed the history (if there has already been disturbance in the forest or a decline of biodiversity) of each location.  
+    
+- Conclusions/ discovery
+    + In the different place of the world the forest statue is different. Boreal forests are expanding further north as the climate warms, turning tundra into new woodland. Many temperate forests saw their greatest destruction centuries ago. But in the tropics, forest loss is accelerating in previously pristine wilderness. About the changes of biodiversity, the scientists find that forest loss didn’t always lead to declines in biodiversity, indeed the loss of forest can lead to increase of some species or decreases in other, the composition of the forest change and this change is different from a place to another. The history of forest explained some variation of biodiversity. There are also some delayed effects carried across generations. 
+    
+- Remaining questions ? 
+    + /
