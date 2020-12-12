@@ -1,15 +1,17 @@
 ---
 title: "Article 3: How forest loss has changed biodiversity across the globe over the last 150 years."
-description: |
-  
+description:
 author:
   - name: Luca Dorio
     url: {}
 date: 11-20-2020
+preview: images/forest.jpg
 output:
   distill::distill_article:
     self_contained: false
 ---
+
+![](images/forest.jpg)
 
 # Source of the article with publication and word count 
 
@@ -34,7 +36,7 @@ Word count: 801
 |     Among                 |     Situated more or less centrally in a situation or relation.        |     Entre               |
 |     Lifespan              |     The length of time for which a person or animal lives.             |     Durée de vie        |
 |     Struggle              |     Make forceful efforts to get free of restraint or constriction.    |     Lutter              |
-|     Delay                 |     make (something or effect) late or slow.                           |     Différé             |
+|     Delay                 |     Make (something or effect) late or slow.                           |     Différé             |
 
 
 # Analysis of the study
@@ -52,7 +54,7 @@ Word count: 801
     + The scientists matched estimates of forest loss throughout history with records of the numbers and types of plants and animals monitored each year by scientists around the world (five million records across 150 years at over 6,000 locations). They also analyzed the history (if there has already been disturbance in the forest or a decline of biodiversity) of each location.  
     
 - Conclusions/ discovery
-    + In the different place of the world the forest statue is different. Boreal forests are expanding further north as the climate warms, turning tundra into new woodland. Many temperate forests saw their greatest destruction centuries ago. But in the tropics, forest loss is accelerating in previously pristine wilderness. About the changes of biodiversity, the scientists find that forest loss didn’t always lead to declines in biodiversity, indeed the loss of forest can lead to increase of some species or decreases in other, the composition of the forest change and this change is different from a place to another. The history of forest explained some variation of biodiversity. There are also some delayed effects carried across generations. 
+    + In the different place of the world the forest statue is different. Boreal forests are expanding further north as the climate warms, turning tundra into new woodland, ect... Many temperate forests saw their greatest destruction centuries ago. But in the tropics, forest loss is accelerating in previously pristine wilderness. About the changes of biodiversity, the scientists find that forest loss didn’t always lead to declines in biodiversity, indeed the loss of forest can lead to increase of some species or decreases in other, the composition of the forest change and this change is different from a place to another. The history of forest explained some variation of biodiversity. There are also some delayed effects carried across generations. 
     
 - Remaining questions ? 
     + /
