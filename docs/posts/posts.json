@@ -1,5 +1,50 @@
 [
   {
+    "path": "posts/2021-04-17-bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Luca Dorio",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-17T20:52:47+02:00"
+  },
+  {
+    "path": "posts/2021-04-16-conclusion/",
+    "title": "Conclusion",
+    "description": {},
+    "author": [
+      {
+        "name": "Luca Dorio",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-16",
+    "categories": [],
+    "preview": "posts/2021-04-16-conclusion/images/conclusion_nature.jpeg",
+    "last_modified": "2021-04-16T21:23:22+02:00"
+  },
+  {
+    "path": "posts/2021-04-16-introduction/",
+    "title": "Introduction",
+    "description": {},
+    "author": [
+      {
+        "name": "Luca Dorio",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-16",
+    "categories": [],
+    "preview": "posts/2021-04-16-introduction/images/Intro_nature.jpg",
+    "last_modified": "2021-04-16T21:24:13+02:00"
+  },
+  {
     "path": "posts/2021-03-11-Article 5/",
     "title": "Article 5: Insects are vanishing at an alarming rate, but we can save them",
     "description": {},

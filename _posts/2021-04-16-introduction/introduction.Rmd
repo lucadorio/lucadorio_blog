@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+description: 
+author:
+  - name: Luca Dorio
+    url: {}
+date: 04-16-2021
+preview: images/Intro_nature.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+![](images/Intro_nature.jpg)
+
+Over the last few years, the biodiversity and his general state made headlines of world, everyone saw at least once in an article, videos or a TV show about the biodiversity loss, animal’s extinction or the danger incurred by the others living being. 
+
+ Personally, I never had the feelings to be concerned by ecology or animals’ preservation, I never had the feeling of urgency about the situation. But one years ago, when I come to biology at University, I learned a lot a thing about animals even this year and that’s give me a lot of interest about this subject. 
+
+ In some weird media or others information distributor without any scientific background, we can see a lot of false or overstate information in the two kind of extremes opinion, for some people the biodiversity loss and animal’s extinction do not exist and in the others side in only 10 years 99% of biodiversity is going to be extinct. In reality the truth is more complicated and contrast.  
+
+ This portfolio is the occasion to really understand what is going on with the loss of biodiversity and try to untangle the truth from the false. 
+
+ In order to understand this phenomenon, we are going to aborded the problem from every form of biodiversity from the land to the sea and every kind of impact on different population who live on earth. 
