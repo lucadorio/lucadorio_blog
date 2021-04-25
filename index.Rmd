@@ -1,8 +1,38 @@
 ---
 title: "Luca Dorio's Blog"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts :
+    - about
+    
+    - meal
+    
+    - 2021-04-16-introduction
+    
+    - 2020-10-25-Article 1
+    
+    - 2020-11-10-Article 2 
+    
+    - 2020-11-20-Article 3
+    
+    - 2020-11-28-Article 4 
+    
+    - 2020-03-11-Article 5
+    
+    - 2020-03-11-Article 6 
+    
+    - 2020-03-11-Article 7
+    
+    - 2021-04-16-conclusion 
+    
+    - 2021-04-17-bibliography 
+    
+    - 2020-10-25-graphicdescription
 ---
+
+#Homepage 
+
+All sections
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post

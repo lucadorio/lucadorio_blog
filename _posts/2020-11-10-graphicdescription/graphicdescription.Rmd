@@ -5,6 +5,8 @@ description: |
 author: 
   - name: Luca Dorio
 date: 11-10-2020
+categories:
+  - "English for science"
 output:
   distill::distill_article:
     self_contained: false

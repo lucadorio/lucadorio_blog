@@ -5,6 +5,8 @@ author:
   - name: Luca Dorio
     url: {}
 date: 04-17-2021
+categories:
+  - "Others"
 output:
   distill::distill_article:
     self_contained: false

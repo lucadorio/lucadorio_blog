@@ -6,6 +6,8 @@ author:
     url: {}
 date: 11-28-2020
 preview: images/American_birds.jpg
+categories:
+  - "Articles"
 output:
   distill::distill_article:
     self_contained: false

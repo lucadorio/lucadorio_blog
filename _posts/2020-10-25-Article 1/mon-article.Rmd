@@ -1,11 +1,12 @@
 ---
 title: "Article 1: Wildlife in 'catastrophic decline' due to human destruction, scientist warn."
-description: |
-
+description: 
 author:
   - name: Luca Dorio
 date: 10-25-2020
 preview: images/image-20170315-5354-1talagg.jpg
+categories:
+  - "Articles"
 output:
   distill::distill_article:
     self_contained: false

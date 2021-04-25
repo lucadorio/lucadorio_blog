@@ -1,5 +1,7 @@
 name: "blog-template"
 title: "Luca Dorio's Blog"
+description: |
+  The danger and cause of biodiversity loss.
 output_dir: "docs"
 navbar:
   right:
@@ -7,8 +9,6 @@ navbar:
       href: index.html
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
-    - text: "Bibliography"
-      href: "posts/2021-04-17-biliography/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
