@@ -30,7 +30,7 @@ listing:
     - 2020-10-25-graphicdescription
 ---
 
-#Homepage 
+
 
 All sections
 
