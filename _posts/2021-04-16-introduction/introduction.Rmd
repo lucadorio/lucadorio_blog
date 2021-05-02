@@ -5,7 +5,7 @@ author:
   - name: Luca Dorio
     url: {}
 date: 04-16-2021
-preview: images/Intro_nature.jpg
+preview: images/Intro_nature_2.jpg
 categories:
   - "Others"
 output:
@@ -13,7 +13,7 @@ output:
     self_contained: false
 ---
 
-![](images/Intro_nature.jpg)
+![](images/Intro_nature_2.jpg)
 
 Over the last few years, the biodiversity and his general state made headlines of world, everyone saw at least once in an article, videos or a TV show about the biodiversity loss, animal’s extinction or the danger incurred by the others living being. 
 

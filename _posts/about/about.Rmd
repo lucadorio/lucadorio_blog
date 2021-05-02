@@ -1,11 +1,12 @@
 ---
 title: "About Me"
-author:
+author: Dorio Luca
   - name: "___" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+
+My name is Luca Dorio, I am in the second year of a bachelor’s in biological science at University of Mons. I practised English from 5 year now, I  don't have an unbelievable level of English but I'm doing pretty well.
+
