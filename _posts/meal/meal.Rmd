@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
-author:
-  - name: "___" 
+author: 
+  - name: "Dorio Luca" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"

@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-author: Dorio Luca
-  - name: "___" 
+author: 
+  - name: "Dorio Luca" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
